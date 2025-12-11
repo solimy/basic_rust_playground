@@ -1,4 +1,4 @@
 mod average;
-mod minmax;
 mod fibo;
+mod minmax;
 mod return_color;

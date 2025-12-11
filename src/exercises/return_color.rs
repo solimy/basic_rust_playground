@@ -24,8 +24,8 @@ fn return_color(input: Option<DefaultColor>) -> Result<Color, ()> {
     }
 }
 
-
-#[cfg(test)]mod tests {
+#[cfg(test)]
+mod tests {
     use super::*;
     #[test]
     fn test_return_DefaultColor() {

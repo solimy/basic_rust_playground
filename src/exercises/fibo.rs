@@ -8,7 +8,8 @@ fn fibonacci(n: u32) -> u32 {
     }
 }
 
-#[cfg(test)]mod tests {
+#[cfg(test)]
+mod tests {
     use super::*;
     #[test]
     fn test_fibonacci() {

@@ -2,8 +2,8 @@ fn average(numbers: &[i32]) -> f64 {
     todo!()
 }
 
-
-#[cfg(test)]mod tests {
+#[cfg(test)]
+mod tests {
     use super::*;
     #[test]
     fn test_average() {

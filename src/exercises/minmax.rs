@@ -6,7 +6,8 @@ fn max(numbers: &[i32]) -> i32 {
     todo!()
 }
 
-#[cfg(test)]mod tests {
+#[cfg(test)]
+mod tests {
     use super::*;
     #[test]
     fn test_min() {
